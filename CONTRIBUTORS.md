@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Akmal Hossain](https://github.com/ak-2045)
+- Place: Tripura, India
+- Bio: Sophomore, Electronics Student, Newbie to Coding
+- Github: [ak-2045](https://github.com/ak-2045)
